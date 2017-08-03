@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Resistor Color Code</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_s_4code">4 Code</string>
+    <string name="btn_s_5code">5 Code</string>
+    <string name="btn_s_6code">6 Code</string>
+    <string name="sp1">1</string>
+    <string name="sp2">2</string>
+	<string name="sp3">3</string>
+	<string name="sp4">4</string>
+	<string name="sp5">5</string>
+    <string name="sp6">6</string>
+    <string name="btn1_s">OK</string>
+    
+    
+</resources>
